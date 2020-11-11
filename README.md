@@ -1,3 +1,28 @@
+TOKOLAKU adalah sebuah web App (Ecommerce) yang menjual barang elektronik contohnya Gadget
+
+teknologi yang digunakan untuk mebangun web app ini menggunakan:
+Frontend : Bootstrap dan Vuejs
+backend : Laravel
+Database : Mysql
+
+
+Berikut adalah halaman Home
+
+![Screenshot from 2020-11-11 09-30-27](https://user-images.githubusercontent.com/26355721/98758139-a1516c80-2400-11eb-8fec-a592e4022a8c.png)
+
+berikut halaman Category
+
+![Screenshot from 2020-11-11 08-58-05](https://user-images.githubusercontent.com/26355721/98757932-1b352600-2400-11eb-80f1-0d4ec34f39d3.png)
+
+berikut halaman Login
+![Screenshot from 2020-11-11 08-58-29](https://user-images.githubusercontent.com/26355721/98757915-12445480-2400-11eb-8bae-bfed10545068.png)
+
+berikut halaman Register
+![Screenshot from 2020-11-11 08-58-12](https://user-images.githubusercontent.com/26355721/98757926-17a19f00-2400-11eb-80c8-b61f837ec444.png)
+
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
